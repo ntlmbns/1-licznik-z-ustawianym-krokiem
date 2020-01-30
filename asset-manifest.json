@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/1-licznik-z-ustawianym-krokiem-2.git/static/css/main.295984a9.chunk.css",
+    "main.js": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/main.ad8d0d7f.chunk.js",
+    "main.js.map": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/main.ad8d0d7f.chunk.js.map",
+    "runtime-main.js": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/runtime-main.6fbf4db2.js",
+    "runtime-main.js.map": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/runtime-main.6fbf4db2.js.map",
+    "static/js/2.2c84f1c7.chunk.js": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/2.2c84f1c7.chunk.js",
+    "static/js/2.2c84f1c7.chunk.js.map": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/2.2c84f1c7.chunk.js.map",
+    "index.html": "/1-licznik-z-ustawianym-krokiem-2.git/index.html",
+    "precache-manifest.e3b02e25726e9940b3c08306e999a801.js": "/1-licznik-z-ustawianym-krokiem-2.git/precache-manifest.e3b02e25726e9940b3c08306e999a801.js",
+    "service-worker.js": "/1-licznik-z-ustawianym-krokiem-2.git/service-worker.js",
+    "static/css/main.295984a9.chunk.css.map": "/1-licznik-z-ustawianym-krokiem-2.git/static/css/main.295984a9.chunk.css.map",
+    "static/js/2.2c84f1c7.chunk.js.LICENSE": "/1-licznik-z-ustawianym-krokiem-2.git/static/js/2.2c84f1c7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fbf4db2.js",
+    "static/js/2.2c84f1c7.chunk.js",
+    "static/css/main.295984a9.chunk.css",
+    "static/js/main.ad8d0d7f.chunk.js"
+  ]
+}
